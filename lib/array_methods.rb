@@ -2,7 +2,7 @@
 
 def using_include(array, element)
  
- array.
+ array.include?("wow")
  
 
 end
